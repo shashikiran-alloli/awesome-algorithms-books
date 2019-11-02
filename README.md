@@ -9,4 +9,5 @@
 
 ### Top coding interviews books
 * Elements of Programming Interviews: The Insiders' Guide by Amit Prakash, Adnan Aziz and Tsung-hsien Lee
+* Programming Interviews Exposed
 
