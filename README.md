@@ -6,6 +6,7 @@
 * Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne
 * Algorithm Design by Jon Kleinberg and Eva Tardos
 * Data Structures and Algorithms in java by Robert Lafore
+* Algorithms in a Nutshell -(O'Reilly) George T. Heineman, Gary Pollice, Stanley Selkow-Algorithms in a Nutshell-O'Reilly Media
 
 ### Top coding interviews books
 * Elements of Programming Interviews: The Insiders' Guide by Amit Prakash, Adnan Aziz and Tsung-hsien Lee
